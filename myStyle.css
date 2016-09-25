@@ -1,0 +1,67 @@
+head
+{
+
+}
+body
+{
+    background-color: #4d0000;
+    background-image:url(logo.png);
+    background-size: auto;
+    background-repeat: space;
+    background-attachment: fixed;
+    background-position: center;
+}
+p
+{
+    background-color: black;
+    color: #800000;
+    font-family:monospace;
+    font-size: 12pt;
+}
+p.contact
+{
+  color: white;
+  font-family:monospace;
+  font-size: 14pt;
+}
+h1
+{
+  color: white;
+  font-style: oblique;
+  font-family: monospace;
+  font-size: 40pt;
+  text-shadow: 2px 2px 5px black;
+}
+h2
+{
+  color: white;
+  font-style: oblique;
+  font-family: monospace;
+  font-size: 25pt;
+  text-shadow: 2px 2px 5px black;
+}
+h3
+{
+  color: white;
+  font-style: oblique;
+  font-family: monospace;
+  font-size: 25pt;
+  text-shadow: 2px 2px 5px black;
+}
+a:hover
+{
+  background-color: yellow;
+}
+a:link
+{
+  background-color: black;
+  color: white;
+}
+a:visited
+{
+  color: white;
+}
+button:hover
+{
+  background-blend-mode: darken;
+}
